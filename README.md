@@ -1,0 +1,1 @@
+PromptCraft is a lightweight AI-powered prompt generator built with Spring Boot and Spring AI. It allows users to create, store, and reuse templates, making AI interactions more structured and efficient. With its simple REST APIs, developers can quickly generate responses, test different models, and integrate prompt management into their applications.
